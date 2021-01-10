@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="TipoMensaje">
+        <item>Seleccione tipo de mensaje</item>
+        <item>Accidente</item>
+        <item>Chilectra</item>
+        <item>Comunitario</item>
+        <item>Robo</item>
+        <item>Otro</item>
+    </string-array>
+
+
+</resources>

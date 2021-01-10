@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GestControl</string>
+    <string name="button_on">On</string>
+    <string name="button_off">Off</string>
+</resources>
